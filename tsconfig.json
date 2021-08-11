@@ -11,7 +11,9 @@
     "noImplicitAny": true,
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
+    "pretty": true,
     "skipLibCheck": true,
+    "baseUrl": "src",
     "typeRoots": [
       "./node_modules/@types/",
       "./src/@types/"
